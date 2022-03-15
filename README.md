@@ -1,4 +1,4 @@
-# USB Blaster Drivers
+# USB-Blaster Drivers
 Signed USB-Blaster Drivers for Altera / Intel FPGAs
 
 Intel® Quartus® Prime does not ship with signed drivers for cloned USB-Blaster JTAG adapters for Windows 7/10 32/64 Bit.
